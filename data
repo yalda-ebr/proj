@@ -1,0 +1,276 @@
+[
+  {
+    "code": "CS101",
+    "name": "مبانی برنامه‌نویسی",
+    "schedule": [
+      "شنبه 10-12",
+      "دوشنبه 10-12"
+    ],
+    "capacity": 20,
+    "prerequisites": []
+  },
+  {
+    "code": "MATH201",
+    "name": "ریاضی عمومی",
+    "schedule": [
+      "یک‌شنبه 14-16",
+      "سه‌شنبه 14-16"
+    ],
+    "capacity": 30,
+    "prerequisites": []
+  },
+  {
+    "code": "DS301",
+    "name": "ساختمان داده‌ها",
+    "schedule": [
+      "دوشنبه 8-10",
+      "چهارشنبه 8-10"
+    ],
+    "capacity": 25,
+    "prerequisites": [
+      "CS101"
+    ]
+  },
+  {
+    "code": "tdh",
+    "name": "فارسی",
+    "schedule": [
+      "شنبه 12-14",
+      "سه شنبه 16-18"
+    ],
+    "capacity": 30,
+    "prerequisites": []
+  },
+  {
+    "code": "hnvhc",
+    "name": "زبان",
+    "schedule": [
+      "شنبه 18-20"
+    ],
+    "capacity": 30,
+    "prerequisites": []
+  },
+  {
+    "code": "hnvhccd",
+    "name": "معادلات دیفرانسیل",
+    "schedule": [
+      "شنبه 16-18"
+    ],
+    "capacity": 25,
+    "prerequisites": [
+      "MATH201"
+    ]
+  },
+  {
+    "code": "hncvhccd",
+    "name": "کارگاه کامپیوتر",
+    "schedule": [
+      "شنبه 16-18"
+    ],
+    "capacity": 25,
+    "prerequisites": []
+  },
+  {
+    "code": "hncffvhccd",
+    "name": "برنامه سازی پیشرفته",
+    "schedule": [
+      "شنبه 16-18",
+      "چهارشنبه 8-10"
+    ],
+    "capacity": 40,
+    "prerequisites": [
+      "CS101"
+    ]
+  },
+  {
+    "code": "ndkj",
+    "name": "انالیز ریاضی",
+    "schedule": [
+      "شنبه 16-18",
+      "چهارشنبه 8-10"
+    ],
+    "capacity": 30,
+    "prerequisites": [
+      "MATH201"
+    ]
+  }
+]
+[
+  {
+    "user": "g@gmail.com",
+    "course": "CS101"
+  },
+  {
+    "user": "g@gmail.com",
+    "course": "MATH201"
+  },
+  {
+    "user": "affsasddddaaas@gmail.com",
+    "course": "CS101"
+  },
+  {
+    "user": "affsasddddaaas@gmail.com",
+    "course": "MATH201"
+  },
+  {
+    "user": "affsasddddaaas@gmail.com",
+    "course": "DS301"
+  },
+  {
+    "user": "affsasddddaaas@gmail.com",
+    "course": "tdh"
+  },
+  {
+    "user": "ffsasaaas@gmail.com",
+    "course": "CS101"
+  },
+  {
+    "user": "le889le@gmail.com",
+    "course": "hncvhccd"
+  },
+  {
+    "user": "le889le@gmail.com",
+    "course": "MATH201"
+  },
+  {
+    "user": "le889le@gmail.com",
+    "course": "CS101"
+  },
+  {
+    "user": "yalda@gmial.com",
+    "course": "CS101"
+  },
+  {
+    "user": "yalda@gmial.com",
+    "course": "MATH201"
+  },
+  {
+    "user": "yaldaa@gmial.com",
+    "course": "CS101"
+  },
+  {
+    "user": "mel@gmail.com",
+    "course": "CS101"
+  },
+  {
+    "user": "a@gmail.com",
+    "course": "CS101"
+  },
+  {
+    "user": "a@gmail.com",
+    "course": "MATH201"
+  },
+  {
+    "user": "a@gmail.com",
+    "course": "hnvhccd"
+  },
+  {
+    "user": "asdge@gmail.com",
+    "course": "CS101"
+  },
+  {
+    "user": "yaldaaaaagfgdshg@gmail.com",
+    "course": "CS101"
+  },
+  {
+    "user": "yaldaaaaagfgdshg@gmail.com",
+    "course": "MATH201"
+  },
+  {
+    "user": "melika@gmail.com",
+    "course": "CS101"
+  },
+  {
+    "user": "melika@gmail.com",
+    "course": "hncffvhccd"
+  },
+  {
+    "user": "melika@gmail.com",
+    "course": "MATH201"
+  },
+  {
+    "user": "melika@gmail.com",
+    "course": "tdh"
+  },
+  {
+    "user": "ffsass@gmail.com",
+    "course": "CS101"
+  },
+  {
+    "user": "ffsass@gmail.com",
+    "course": "MATH201"
+  },
+  {
+    "user": "ffsass@gmail.com",
+    "course": "DS301"
+  },
+  {
+    "user": "ffsass@gmail.com",
+    "course": "tdh"
+  },
+  {
+    "user": "ffsass@gmail.com",
+    "course": "hnvhc"
+  },
+  {
+    "user": "sara@gmail.com",
+    "course": "CS101"
+  },
+  {
+    "user": "asra@gmail.com",
+    "course": "CS101"
+  },
+  {
+    "user": "asra@gmail.com",
+    "course": "MATH201"
+  },
+  {
+    "user": "saman@gmail.com",
+    "course": "CS101"
+  },
+  {
+    "user": "saman@gmail.com",
+    "course": "hncffvhccd"
+  },
+  {
+    "user": "saman@gmail.com",
+    "course": "MATH201"
+  },
+  {
+    "user": "saman@gmail.com",
+    "course": "hnvhc"
+  },
+  {
+    "user": "dara@gmail.com",
+    "course": "CS101"
+  },
+  {
+    "user": "dara@gmail.com",
+    "course": "hncffvhccd"
+  },
+  {
+    "user": "dara@gmail.com",
+    "course": "MATH201"
+  },
+  {
+    "user": "samaneh@gmail.com",
+    "course": "CS101"
+  },
+  {
+    "user": "samaneh@gmail.com",
+    "course": "MATH201"
+  },
+  {
+    "user": "melikaa@gmail.com",
+    "course": "CS101"
+  },
+  {
+    "user": "melikaa@gmail.com",
+    "course": "MATH201"
+  },
+  {
+    "user": "melikaa@gmail.com",
+    "course": "hnvhc"
+  }
+]
+[]
